@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-👨‍💻 About Me<br><br>Hey! I'm Keyur Panchal, a full-stack developer with a strong interest in backend engineering and building practical, scalable web applications.<br><br>I enjoy turning ideas into functional products, designing RESTful APIs, implementing authentication systems, and exploring how applications work behind the scenes.<br><br>💻 Experienced with the MERN Stack and TypeScript.<br>⚙️ Interested in backend development, API design, and system architecture.<br>🗄️ Working with MongoDB, PostgreSQL, Prisma, and Redis.<br>🐳 Currently learning Docker and exploring distributed systems and cloud technologies.<br>🐍 Expanding my knowledge of Python and Data Structures & Algorithms.<br>🚀 Always experimenting with new technologies and building projects to improve my skills.<br><br>My goal: To become a well-rounded software engineer who builds reliable, scalable, and impactful applications.<br><br>I believe in learning by building, improving through challenges, and getting better with every commit.
+# 👨‍💻 About Me
+Hey! I'm Keyur Panchal, a full-stack developer with a strong interest in backend engineering and building practical, scalable web applications.<br><br>I enjoy turning ideas into functional products, designing RESTful APIs, implementing authentication systems, and exploring how applications work behind the scenes.<br><br>💻 Experienced with the MERN Stack and TypeScript.<br>⚙️ Interested in backend development, API design, and system architecture.<br>🗄️ Working with MongoDB, PostgreSQL, Prisma, and Redis.<br>🐳 Currently learning Docker and exploring distributed systems and cloud technologies.<br>🐍 Expanding my knowledge of Python and Data Structures & Algorithms.<br>🚀 Always experimenting with new technologies and building projects to improve my skills.<br><br>My goal: To become a well-rounded software engineer who builds reliable, scalable, and impactful applications.<br><br>I believe in learning by building, improving through challenges, and getting better with every commit.
 
 
 ## 🌐 Socials:
